@@ -1,0 +1,80 @@
+html {
+  height: 100%;
+}
+body{
+	font-family: 'Prata', serif;
+	font-size: 20px;
+	background: #fdfcfb;
+	font-weight: normal;
+}
+
+.lessons-bg{
+    background-image: url('../img/schedule/Lessons-background.jpg');
+    background-repeat: no-repeat;
+    background-position: center; 
+    position: relative;
+}
+
+.lessons-second-half{
+	font-style: italic;
+	font-weight: bold;
+}
+
+.special-text{
+	font-family: 'Lobster', cursive;
+	font-size: 26px;
+	text-align: center;
+}
+
+p.fl:first-letter{
+	font-size: 190%;
+	color: #FF0000;
+}
+.row{
+	padding: 30px;
+}
+
+.leftimg {
+  float: left;
+  margin: 7px 15px 7px 0;
+}
+
+.img{
+	max-width: 100%;
+	height: auto;
+}
+
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link
+{
+	background-color: #007bff;
+}
+/*
+.navbar-default .navbar-nav > li.active-link > a{
+	border-bottom: 1px solid #FF0000;
+	color: #8d8c8c;
+}
+.navbar-default .navbar-nav:not(.icons) > li > a:hover{
+	border-bottom: 1px solid #FF0000;
+	color: #8d8c8c;
+}
+*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 767px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+}
