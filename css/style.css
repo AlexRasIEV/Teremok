@@ -8,12 +8,6 @@ body{
 	font-weight: normal;
 }
 
-.lessons-bg{
-    background-image: url('../img/schedule/Lessons-background.jpg');
-    background-repeat: no-repeat;
-    background-position: center; 
-    position: relative;
-}
 .new_year-bg{
     background-image: url('../img/actions/Santa/snow_bg.jpg');
     background-repeat: no-repeat;
@@ -42,8 +36,8 @@ p.fl:first-letter{
 }
 
 .leftimg {
-  float: left;
-  margin: 7px 15px 7px 0;
+	float: left;
+	margin: 7px 15px 7px 0;
 }
 
 .img{
@@ -67,21 +61,46 @@ p.fl:first-letter{
 */
 
 /* Large Devices, Wide Screens */
-@media only screen and (max-width : 1200px) {
+@media only screen and (max-width : 2400px) {
+
+.lessons-bg{
+    background-image: url('../img/schedule/Lessons-background.jpg');
+    background-repeat: no-repeat;
+    background-position: center; 
+    position: relative;
+}
 
 }
 
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
+	
+.lessons-bg{
+    background-image: url('../img/schedule/Lessons-background.jpg');
+    background-repeat: no-repeat;
+    background-position: center; 
+    position: relative;
+}
 
 }
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 767px) {
 
+.lessons-bg{
+    background-image: url('../img/schedule/Lessons-background.jpg');
+    background-repeat: no-repeat;
+    background-position: center; 
+    position: relative;
+}
+
 }
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
+
+.lessons-bg{
+	background-image: none
+}
 
 }
