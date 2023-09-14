@@ -4,73 +4,69 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+    <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
-<url>
-  <loc>http://teremok.club/</loc>
-  <lastmod>2022-12-16T19:55:08+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>http://teremok.club/daily_routines.html</loc>
-  <lastmod>2022-12-16T19:55:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://teremok.club/schedule.html</loc>
-  <lastmod>2022-12-16T19:55:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://teremok.club/music.html</loc>
-  <lastmod>2022-12-16T19:55:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://teremok.club/physical_culture.html</loc>
-  <lastmod>2022-12-16T19:55:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://teremok.club/adaptation_period.html</loc>
-  <lastmod>2022-12-16T19:55:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://teremok.club/adaptation_recomendations_for_parents.html</loc>
-  <lastmod>2022-12-16T19:55:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://teremok.club/adaptation_speedup.html</loc>
-  <lastmod>2022-12-16T19:55:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://teremok.club/adaptation_notes.html</loc>
-  <lastmod>2022-12-16T19:55:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://teremok.club/contacts.html</loc>
-  <lastmod>2022-12-16T19:55:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://teremok.club/index.html</loc>
-  <lastmod>2022-12-16T19:55:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://teremok.club/img/daily_routines/Daily_routines.pdf</loc>
-  <lastmod>2022-12-16T21:36:58+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://teremok.club/img/schedule/Lessons.pdf</loc>
-  <lastmod>2022-12-16T21:38:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+    <url>
+        <loc>http://teremok.uno/</loc>
+        <lastmod>2023-09-14T15:25:44+00:00</lastmod>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>http://teremok.uno/daily_routines.html</loc>
+        <lastmod>2023-08-14T12:48:53+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://teremok.uno/schedule.html</loc>
+        <lastmod>2023-08-14T12:48:53+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://teremok.uno/music.html</loc>
+        <lastmod>2023-08-14T12:48:53+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://teremok.uno/physical_culture.html</loc>
+        <lastmod>2023-08-14T12:48:53+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://teremok.uno/adaptation_period.html</loc>
+        <lastmod>2023-08-14T12:48:53+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://teremok.uno/adaptation_recomendations_for_parents.html</loc>
+        <lastmod>2023-08-14T12:48:53+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://teremok.uno/adaptation_speedup.html</loc>
+        <lastmod>2023-08-14T12:48:53+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://teremok.uno/adaptation_notes.html</loc>
+        <lastmod>2023-08-14T12:48:54+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://teremok.uno/contacts.html</loc>
+        <lastmod>2023-08-14T12:48:53+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://teremok.uno/index.html</loc>
+        <lastmod>2023-09-14T15:25:44+00:00</lastmod>
+        <priority>0.64</priority>
+    </url>
+    <url>
+        <loc>http://teremok.uno/img/daily_routines/Daily_routines.pdf</loc>
+        <lastmod>2023-08-14T12:48:47+00:00</lastmod>
+        <priority>0.64</priority>
+    </url>
+
 
 </urlset>
